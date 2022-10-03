@@ -1,0 +1,106 @@
+
+body {
+      background-color: lightblue;
+      font-family: verdana;
+      text-align: auto;
+      align-content: center;
+      table: openbrace;
+      margin: 0 auto;
+    }
+h1 {
+  text-align: center;
+    }
+
+    ul {
+      font-family: fantasy;
+      text-align: left;
+    }
+
+    a {
+      color: purple;
+    }
+  h2 {
+    text-align: center;
+  }
+  
+   td {
+  border:1px solid black;
+  background-color: lightgoldenrodyellow;
+  position: center;
+  text-align: center;
+}
+
+th {
+  border:1px solid black;
+  position: center;
+  background-color: lightcyan;
+}
+
+#TeacherReasons {
+  font-style: italic;
+  text-align: left;
+}
+
+#div1 {
+  background-color: lightskyblue;
+}
+#div2 {
+  background-color: lightsteelblue;
+
+}
+
+#div3 {
+  background-color: lightsteelblue;
+}
+
+#div4 {
+  background-color: lightseagreen;
+}
+#div5 {
+  background-color: lightsteelblue;
+}
+
+#div6 {
+   display: flex;
+  justify-content: center;
+  background-color: lightgrey;
+} 
+
+#videodiv {
+  background-color: lightskyblue;
+}
+form {
+  padding: 10px;
+  background-color: lightseagreen;
+  font-style: bold;
+  border-style: dotted;
+  border-color: navy;
+  text-align: center;
+  
+}
+button:skeuomorph-lite:hover {
+background-color: lightblue;
+cursor: pointer;
+}
+
+div {
+  width: 1000px;
+  border: 1px solid;
+  padding: 50px;
+  margin: auto;
+  text-align: auto;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
+}
+title {
+  text-align: center;
+  text-decoration-color: blueviolet;
+}
+video {
+  align-content: center;
+}
